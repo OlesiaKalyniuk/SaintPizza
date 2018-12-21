@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+#header, #footer, #header button, #footer button{
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+.about_del{
+	font-family: "Roboto", "Myriad Pro", Calibri, sans-serif;
+}
+
+#main-content{
+	font-family: "Georgia", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+#main-content button{
+	font-family: "Georgia", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
+
+.authModal{
+	font-family: Arial, Helvetica, sans-serif;
+}
